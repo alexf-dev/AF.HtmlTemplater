@@ -3,7 +3,7 @@
     public interface IHtmlCreatorService
     {
         /// <summary>
-        /// Метод возвращает HTML код построенный по шаблону и данным (template - путб к файлу шаблона, jsonData - путь к файлу с данными)
+        /// Метод возвращает HTML код построенный по шаблону и данным (template - путь к файлу шаблона, jsonData - путь к файлу с данными)
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="template"></param>
