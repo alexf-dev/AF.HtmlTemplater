@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AF.HtmlTemplater.Data\AF.HtmlTemplater.Data.csproj" />
+    <ProjectReference Include="..\AF.HtmlTemplater.HtmlCreatorLib\AF.HtmlTemplater.HtmlCreatorLib.csproj" />
+  </ItemGroup>
+
 </Project>
